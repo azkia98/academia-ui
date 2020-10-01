@@ -4335,7 +4335,7 @@ if(window.jQuery && window.fullpage){
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed (from ./node_modules/css-loader/index.js):\nModuleBuildError: Module build failed: Error: ENOENT: no such file or directory, open '/home/mahdi/Projects/Sites/academia/node_modules/css-loader/lib/css-base.js'\n    at /home/mahdi/Projects/Sites/academia/node_modules/webpack/lib/NormalModule.js:316:20\n    at /home/mahdi/Projects/Sites/academia/node_modules/loader-runner/lib/LoaderRunner.js:367:11\n    at /home/mahdi/Projects/Sites/academia/node_modules/loader-runner/lib/LoaderRunner.js:203:19\n    at /home/mahdi/Projects/Sites/academia/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:85:15\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)");
+// removed by extract-text-webpack-plugin
 
 /***/ }),
 
@@ -4367,7 +4367,7 @@ new fullpage_js__WEBPACK_IMPORTED_MODULE_0___default.a('#fullpage', {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed (from ./node_modules/css-loader/index.js):\nModuleBuildError: Module build failed: Error: ENOENT: no such file or directory, open '/home/mahdi/Projects/Sites/academia/node_modules/css-loader/lib/css-base.js'\n    at /home/mahdi/Projects/Sites/academia/node_modules/webpack/lib/NormalModule.js:316:20\n    at /home/mahdi/Projects/Sites/academia/node_modules/loader-runner/lib/LoaderRunner.js:367:11\n    at /home/mahdi/Projects/Sites/academia/node_modules/loader-runner/lib/LoaderRunner.js:203:19\n    at /home/mahdi/Projects/Sites/academia/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:85:15\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)");
+// removed by extract-text-webpack-plugin
 
 /***/ }),
 
