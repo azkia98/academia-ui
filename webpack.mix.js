@@ -13,9 +13,6 @@ mix.setPublicPath('public');
  */
 
 
-const mix = require('laravel-mix');
-
-
 mix.postCss('src/css/tailwind.css', 'public/css', [
   require('tailwindcss'),
 ]);
@@ -43,7 +40,7 @@ mix.js('src/js/app.js', 'public/js')
 // mix.minify(file);
 // mix.sourceMaps(); // Enable sourcemaps
 // mix.version(); // Enable versioning.
-// mix.disableNotifications();
+mix.disableNotifications();
 // mix.setPublicPath('path/to/public');
 // mix.setResourceRoot('prefix/for/resource/locators');
 // mix.autoload({}); <-- Will be passed to Webpack's ProvidePlugin.
