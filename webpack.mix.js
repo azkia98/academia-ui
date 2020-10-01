@@ -15,6 +15,11 @@ mix.setPublicPath('public');
 
 const mix = require('laravel-mix');
 
+
+mix.postCss('src/css/tailwind.css', 'public/css', [
+  require('tailwindcss'),
+]);
+
 mix.js('src/js/app.js', 'public/js')
     .sass('src/sass/app.scss', 'public/css')
 
