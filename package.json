@@ -23,6 +23,8 @@
   },
   "dependencies": {
     "cross-env": "^7.0.2",
+    "fullpage.js": "^3.0.9",
+    "shabnam-font": "^5.0.0",
     "tailwindcss": "^1.8.10"
   }
 }
