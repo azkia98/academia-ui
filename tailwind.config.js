@@ -157,6 +157,7 @@ module.exports = {
       '48': '12rem',
       '56': '14rem',
       '64': '16rem',
+      '480': '480px',
     },
     backgroundColor: theme => theme('colors'),
     backgroundImage: {
@@ -280,6 +281,8 @@ module.exports = {
       '4xl': '2.25rem',
       '5xl': '3rem',
       '6xl': '4rem',
+      'mh2': '18px',
+      'mh1': '14px'
     },
     fontWeight: {
       hairline: '100',
