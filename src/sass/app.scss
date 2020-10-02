@@ -1,10 +1,16 @@
-@import 'font';
+@import "font";
 
 body {
-    font-family: 'Shabnam';
+    font-family: "Shabnam";
 }
 
-
-.seconde-section-container{
+.seconde-section-container {
     height: calc(90vh - 60px);
+}
+
+.first-section_know-more {
+    bottom: -61px;
+    left: -39px;
+
+    transform: rotate(270deg);
 }
