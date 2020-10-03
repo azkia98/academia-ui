@@ -18,7 +18,7 @@ mix.postCss('src/css/tailwind.css', 'public/css', [
 ]);
 
 mix.js('src/js/app.js', 'public/js')
-    .sass('src/sass/app.scss', 'public/css')
+  .sass('src/sass/app.scss', 'public/css')
 
 
 // Full API
